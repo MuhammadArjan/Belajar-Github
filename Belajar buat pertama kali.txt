@@ -2,7 +2,7 @@
 Github adalah sebuah cloud yang bisa melakukan git
 Github sangat berguna untuk mengelola perubahan code dan menyimpan perubahan before afternya
 Ini adalah pembelajaran saya dengan hgitun
-Semoga saya lulus program 
+Saya harus lulus program ini
 
 Belajar agar dapat memahami dasar menggunakan github
 Dengan ini saya dapat dengan mudah mengelolafile
