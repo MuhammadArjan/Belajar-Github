@@ -1,0 +1,4 @@
+Github adalah sebuah cloud yang bisa melakukan git
+Github sangat berguna untuk mengelola perubahan code dan menyimpan perubahan before afternya
+Ini adalah pembelajaran saya dengan hgitun
+Semoga saya lulus program 
